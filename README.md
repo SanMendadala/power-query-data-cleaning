@@ -1,5 +1,4 @@
 # Power Query Data Cleaning Project
-
 This project demonstrates the use of Power Query to clean and transform raw data for analysis. The goal was to improve the data quality and make it ready for further analysis, allowing for more accurate insights.
 
 ## Project Overview
