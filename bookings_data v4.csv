@@ -1,0 +1,63 @@
+date,property_id,property_name,property_type,city,city_code,successful_bookings,capacity,Availability Status,occ%,room_id,room_class,Month Name
+01-06-2022 00:00,17562,Atliq Bay,Luxury,Mumbai,+91 22,30,30,sold out,1,RT2,Elite,June
+01-06-2022 00:00,16563,Atliq Palace,Business,Delhi,+91 11,41,41,sold out,1,RT1,Standard,June
+01-06-2022 00:00,17562,Atliq Bay,Luxury,Mumbai,+91 22,20,20,sold out,1,RT1,Standard,June
+01-06-2022 00:00,17562,Atliq Bay,Luxury,Mumbai,+91 22,4,27,vacant,0.148148148,RT3,Premium,June
+01-06-2022 00:00,16563,Atliq Palace,Business,Delhi,+91 11,7,20,vacant,0.35,RT3,Premium,June
+01-06-2022 00:00,16563,Atliq Palace,Business,Delhi,+91 11,3,18,vacant,0.166666667,RT4,Presidential,June
+01-06-2022 00:00,16563,Atliq Palace,Business,Delhi,+91 11,9,38,vacant,0.236842105,RT2,Elite,June
+03-06-2022 00:00,16563,Atliq Palace,Business,Delhi,+91 11,5,18,vacant,0.277777778,RT4,Presidential,June
+03-06-2022 00:00,16563,Atliq Palace,Business,Delhi,+91 11,12,38,vacant,0.315789474,RT2,Elite,June
+03-06-2022 00:00,17562,Atliq Bay,Luxury,Mumbai,+91 22,30,30,sold out,1,RT2,Elite,June
+03-06-2022 00:00,16563,Atliq Palace,Business,Delhi,+91 11,15,41,vacant,0.365853659,RT1,Standard,June
+03-06-2022 00:00,17562,Atliq Bay,Luxury,Mumbai,+91 22,7,20,vacant,0.35,RT1,Standard,June
+03-06-2022 00:00,17562,Atliq Bay,Luxury,Mumbai,+91 22,27,27,sold out,1,RT3,Premium,June
+03-06-2022 00:00,16563,Atliq Palace,Business,Delhi,+91 11,9,20,vacant,0.45,RT3,Premium,June
+03-06-2022 00:00,17562,Atliq Bay,Luxury,Mumbai,+91 22,2,6,vacant,0.333333333,RT4,Presidential,June
+06-06-2022 00:00,16563,Atliq Palace,Business,Delhi,+91 11,9,38,vacant,0.236842105,RT2,Elite,June
+06-06-2022 00:00,17562,Atliq Bay,Luxury,Mumbai,+91 22,4,30,vacant,0.133333333,RT2,Elite,June
+06-06-2022 00:00,17562,Atliq Bay,Luxury,Mumbai,+91 22,2,20,vacant,0.1,RT1,Standard,June
+06-06-2022 00:00,16563,Atliq Palace,Business,Delhi,+91 11,9,41,vacant,0.219512195,RT1,Standard,June
+06-06-2022 00:00,17562,Atliq Bay,Luxury,Mumbai,+91 22,4,27,vacant,0.148148148,RT3,Premium,June
+06-06-2022 00:00,16563,Atliq Palace,Business,Delhi,+91 11,4,20,vacant,0.2,RT3,Premium,June
+06-06-2022 00:00,16563,Atliq Palace,Business,Delhi,+91 11,5,18,vacant,0.277777778,RT4,Presidential,June
+06-06-2022 00:00,17562,Atliq Bay,Luxury,Mumbai,+91 22,1,6,vacant,0.166666667,RT4,Presidential,June
+09-06-2022 00:00,16563,Atliq Palace,Business,Delhi,+91 11,9,38,vacant,0.236842105,RT2,Elite,June
+09-06-2022 00:00,17562,Atliq Bay,Luxury,Mumbai,+91 22,30,30,sold out,1,RT2,Elite,June
+09-06-2022 00:00,16563,Atliq Palace,Business,Delhi,+91 11,12,41,vacant,0.292682927,RT1,Standard,June
+09-06-2022 00:00,17562,Atliq Bay,Luxury,Mumbai,+91 22,4,20,vacant,0.2,RT1,Standard,June
+09-06-2022 00:00,17562,Atliq Bay,Luxury,Mumbai,+91 22,27,27,sold out,1,RT3,Premium,June
+09-06-2022 00:00,16563,Atliq Palace,Business,Delhi,+91 11,5,20,vacant,0.25,RT3,Premium,June
+09-06-2022 00:00,16563,Atliq Palace,Business,Delhi,+91 11,4,18,vacant,0.222222222,RT4,Presidential,June
+09-06-2022 00:00,17562,Atliq Bay,Luxury,Mumbai,+91 22,6,6,sold out,1,RT4,Presidential,June
+13-06-2022 00:00,16563,Atliq Palace,Business,Delhi,+91 11,9,38,vacant,0.236842105,RT2,Elite,June
+13-06-2022 00:00,17562,Atliq Bay,Luxury,Mumbai,+91 22,6,30,vacant,0.2,RT2,Elite,June
+13-06-2022 00:00,16563,Atliq Palace,Business,Delhi,+91 11,12,41,vacant,0.292682927,RT1,Standard,June
+13-06-2022 00:00,17562,Atliq Bay,Luxury,Mumbai,+91 22,1,20,vacant,0.05,RT1,Standard,June
+13-06-2022 00:00,17562,Atliq Bay,Luxury,Mumbai,+91 22,27,27,sold out,1,RT3,Premium,June
+13-06-2022 00:00,16563,Atliq Palace,Business,Delhi,+91 11,6,20,vacant,0.3,RT3,Premium,June
+13-06-2022 00:00,16563,Atliq Palace,Business,Delhi,+91 11,8,18,vacant,0.444444444,RT4,Presidential,June
+17-06-2022 00:00,17562,Atliq Bay,Luxury,Mumbai,+91 22,4,30,vacant,0.133333333,RT2,Elite,June
+17-06-2022 00:00,16563,Atliq Palace,Business,Delhi,+91 11,41,41,sold out,1,RT1,Standard,June
+17-06-2022 00:00,17562,Atliq Bay,Luxury,Mumbai,+91 22,5,20,vacant,0.25,RT1,Standard,June
+17-06-2022 00:00,17562,Atliq Bay,Luxury,Mumbai,+91 22,27,27,sold out,1,RT3,Premium,June
+17-06-2022 00:00,16563,Atliq Palace,Business,Delhi,+91 11,38,38,sold out,1,RT2,Elite,June
+17-06-2022 00:00,16563,Atliq Palace,Business,Delhi,+91 11,20,20,sold out,1,RT3,Premium,June
+17-06-2022 00:00,16563,Atliq Palace,Business,Delhi,+91 11,18,18,sold out,1,RT4,Presidential,June
+17-06-2022 00:00,17562,Atliq Bay,Luxury,Mumbai,+91 22,1,6,vacant,0.166666667,RT4,Presidential,June
+20-06-2022 00:00,17562,Atliq Bay,Luxury,Mumbai,+91 22,3,27,vacant,0.111111111,RT3,Premium,June
+20-06-2022 00:00,16563,Atliq Palace,Business,Delhi,+91 11,38,38,sold out,1,RT2,Elite,June
+20-06-2022 00:00,17562,Atliq Bay,Luxury,Mumbai,+91 22,30,30,sold out,1,RT2,Elite,June
+20-06-2022 00:00,16563,Atliq Palace,Business,Delhi,+91 11,41,41,sold out,1,RT1,Standard,June
+20-06-2022 00:00,17562,Atliq Bay,Luxury,Mumbai,+91 22,4,20,vacant,0.2,RT1,Standard,June
+20-06-2022 00:00,16563,Atliq Palace,Business,Delhi,+91 11,6,20,vacant,0.3,RT3,Premium,June
+20-06-2022 00:00,16563,Atliq Palace,Business,Delhi,+91 11,5,18,vacant,0.277777778,RT4,Presidential,June
+20-06-2022 00:00,17562,Atliq Bay,Luxury,Mumbai,+91 22,6,6,sold out,1,RT4,Presidential,June
+22-06-2022 00:00,16563,Atliq Palace,Business,Delhi,+91 11,38,38,sold out,1,RT2,Elite,June
+22-06-2022 00:00,17562,Atliq Bay,Luxury,Mumbai,+91 22,30,30,sold out,1,RT2,Elite,June
+22-06-2022 00:00,16563,Atliq Palace,Business,Delhi,+91 11,25,41,vacant,0.609756098,RT1,Standard,June
+22-06-2022 00:00,17562,Atliq Bay,Luxury,Mumbai,+91 22,3,20,vacant,0.15,RT1,Standard,June
+22-06-2022 00:00,17562,Atliq Bay,Luxury,Mumbai,+91 22,27,27,sold out,1,RT3,Premium,June
+22-06-2022 00:00,16563,Atliq Palace,Business,Delhi,+91 11,20,20,sold out,1,RT3,Premium,June
+22-06-2022 00:00,16563,Atliq Palace,Business,Delhi,+91 11,18,18,sold out,1,RT4,Presidential,June
+22-06-2022 00:00,17562,Atliq Bay,Luxury,Mumbai,+91 22,1,6,vacant,0.166666667,RT4,Presidential,June
